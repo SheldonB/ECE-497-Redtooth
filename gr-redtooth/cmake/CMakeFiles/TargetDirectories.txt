@@ -1,0 +1,4 @@
+/home/sdr/Capstone/gr-redtooth/cmake/docs/doxygen/CMakeFiles/doxygen_target.dir
+/home/sdr/Capstone/gr-redtooth/cmake/apps/CMakeFiles/pygen_apps_9a6dd.dir
+/home/sdr/Capstone/gr-redtooth/cmake/python/CMakeFiles/pygen_python_ef614.dir
+/home/sdr/Capstone/gr-redtooth/cmake/CMakeFiles/uninstall.dir
